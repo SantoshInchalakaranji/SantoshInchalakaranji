@@ -7,4 +7,4 @@ I'm Santosh. A passionate Android app developer. I thrive on solving problems an
 - Android :robot:
 - Open source :octocat:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantoshInchalakaranji)](https://github.com/anuraghazra/github-readme-stats)
+
