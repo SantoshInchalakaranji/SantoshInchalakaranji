@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Santosh. a passionate Android app developer. I thrive on solving problems and creating user-friendly experiences through clean and efficient code. My journey into the world of Android development started a few years ago, and I've been continuously learning and growing ever since.
+I'm Santosh. A passionate Android app developer. I thrive on solving problems and creating user-friendly experiences through clean and efficient code.
 
 ## Things I am passionate about
 
