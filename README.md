@@ -5,6 +5,7 @@ I'm Santosh. A passionate Android app developer. I thrive on solving problems an
 ## Things I am passionate about
 
 - Android :robot:
-- Open source :octocat:
+- Java :coffee:
+- Mobile Apps:: 
 
 
