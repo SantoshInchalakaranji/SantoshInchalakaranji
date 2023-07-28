@@ -43,6 +43,15 @@ I'm Santosh. A passionate Android app developer. I thrive on solving problems an
 - Android AR Apps
 
 
+### Explore My Projects
+
+
+- [Drops](https://github.com/SantoshAndroidDev/Drops) - An Android application to manage water dispensing outlets.
+
+
+
+
+
 ## Contact
 
 - Email: santoshinchalakaranji@gmail.com
