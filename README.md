@@ -46,7 +46,7 @@ I'm Santosh. A passionate Android app developer. I thrive on solving problems an
 ### Explore My Projects
 
 
-- [Drops](https://github.com/SantoshAndroidDev/Drops) - An Android application to manage water dispensing outlets.
+- [Drops](https://github.com/SantoshInchalakaranji/Drops) - An Android application to manage water dispensing outlets.
 
 
 
