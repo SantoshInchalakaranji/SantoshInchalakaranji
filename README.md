@@ -11,7 +11,7 @@ I'm Santosh. A passionate Android app developer. I thrive on solving problems an
 ## My Skills
 
 
-# Android
+### Android
 - Java
 - Kotlin
 - Android SDK
@@ -23,13 +23,13 @@ I'm Santosh. A passionate Android app developer. I thrive on solving problems an
 - Git
 - flutter
 
-# Machine Learning
+### Machine Learning
 - Python
 - Training and Testing Models
 - Jupyter Notebook
 - Preprocess + EDA + Feature Selection
 
-# Augmented Reality
+### Augmented Reality
 - C#
 - Unity
 - 3D Model
