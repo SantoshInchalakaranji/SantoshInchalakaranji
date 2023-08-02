@@ -25,7 +25,7 @@ I'm Santosh. A passionate Android app developer. I thrive on solving problems an
 - Material Design
 - MVVM Architecture
 - Git
-- flutter
+- Flutter
 
 ### Machine Learning
 - Python
