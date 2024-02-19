@@ -15,6 +15,23 @@ I'm Santosh. A passionate Android app developer. I thrive on solving problems an
 
 ## My Skills
 
+<p align ="center" width = "100%">
+</p>
+<br>
+
+## Key Skills
+
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>]() 
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"/>]()
+
+<br>
 
 ### Android
 - Java
