@@ -6,6 +6,7 @@ I'm Santosh. A passionate Android app developer. I thrive on solving problems an
 
 - Android :robot:
 - Java :coffee:
+- Kotlin 📲
 
 ![image](https://img.shields.io/badge/-Kotlin-blueviolet) ![image](https://img.shields.io/badge/-Android-brightgreen) ![image](https://img.shields.io/badge/Java-orange) 
 
