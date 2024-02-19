@@ -29,7 +29,10 @@ I'm Santosh. A passionate Android app developer. I thrive on solving problems an
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>]() 
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>]()
-[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg"/>]()
+
+
 
 <br>
 
