@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Santosh. A passionate Android app developer. I thrive on solving problems and creating user-friendly experiences through clean and efficient code.
+I'm Santosh. A passionate Android app developer with 1+ year of experience. I thrive on solving problems and creating user-friendly experiences through clean and efficient code.
 
 ## Things I am passionate about
 
@@ -47,6 +47,8 @@ I'm Santosh. A passionate Android app developer. I thrive on solving problems an
 - MVVM Architecture
 - Git
 - Flutter
+- BLE
+- Wifi 
 
 ### Machine Learning
 - Python
@@ -68,7 +70,10 @@ I'm Santosh. A passionate Android app developer. I thrive on solving problems an
 
 
 
+-  [Proprioception](https://github.com/SantoshInchalakaranji/Proprioception) - An android application to control and manage medical instrument and related data.
 -  [Drops](https://github.com/SantoshInchalakaranji/Drops) - An android application to manage water dispensing outlets.
+-  [HandGestureDetection](https://github.com/SantoshInchalakaranji/HandGestureDetection) - An android application to detect hand gestures.
+-  [BluetoothAndRetrofitDemo](https://github.com/SantoshInchalakaranji/BlueToothAndApiDemo) - An android application to demonstrate bluetooth and retrofit usage with jetpack compose.
 -  [ShoppingApp](https://github.com/SantoshInchalakaranji/ShoppingApp) - An android application provides users with categorized shopping options.
 
 
